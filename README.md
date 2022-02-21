@@ -1,1 +1,2 @@
-Hi! I’m Astro Moor, professional dumb :°)
+### Let me introduce myself!
+I’m Astro Moor, professional dumb :°)
